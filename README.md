@@ -1,4 +1,4 @@
-# Calendar_Generator-Cpp
+# Calendar_Generator
 This C++ program generates a calendar for any given year. The program displays the months,days of the week and correct arrangement of days in each month taking leap years into account.
 # Features
 *Leap Year Support:* The program correctly identifies leap years and adjusts the number of days in February.
